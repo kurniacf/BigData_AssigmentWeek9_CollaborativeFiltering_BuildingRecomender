@@ -1,4 +1,4 @@
-# BIG DATA ASSIGMENT 9
+# BIG DATA ASSIGNMENT WEEK 9
 
 ## Collaborative Filtering and Building Recommender using Apache Spark Exercise
 - Name: Kurnia Cahya Febryanto
